@@ -30,7 +30,7 @@
 <a href="https://solidity-es.readthedocs.io/es/latest/" target="_blank"> <img src="https://solidity-es.readthedocs.io/es/latest/_images/logo.svg" alt="Solidity" width="40" height="40"/> </a>
 <a href="https://github.com/ChainSafe/web3.js" target="_blank"> <img src="https://raw.githubusercontent.com/ChainSafe/web3.js/1.x/assets/logo/web3js.jpg" alt="Solidity" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/W3C%C2%AE_Icon.svg/210px-W3C%C2%AE_Icon.svg.png" alt="Accesibilidad Web" width="40" height="40"/> </a>
-
+<a href="https://ethereum.org/es/" target="_blank"> <img src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/f2da0/eth-home-icon.png" alt="Ethereum" width="40" height="40"/> </a>
 </p>
 <br />
 
