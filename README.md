@@ -9,4 +9,14 @@
 [![LinkedIn](https://img.shields.io/badge/maurotello-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/maurotello/) 
 [![Instagram](https://img.shields.io/badge/Instagram-@maurogtello-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/maurogtello/)
 
-
+<br />
+<br />
+<hr>
+<br />
+## Puedes contactarme por:
+<br />
+[![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=for-the-badge&logo=telegram&logoWidth=20&logoColor=white&labelColor=1b94c9)](https://t.me/maurotello)
+<br />
+<hr>
+<br />
+## Teccnologías y Herramientas
