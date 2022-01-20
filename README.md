@@ -33,5 +33,9 @@
 <a href="https://github.com/ChainSafe/web3.js" target="_blank"> <img src="https://raw.githubusercontent.com/ChainSafe/web3.js/1.x/assets/logo/web3js.jpg" alt="Solidity" width="40" height="40"/> </a> 
 </p>
 <br />
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=maurotello&theme=dracula&area=true&hide_border=false&bg_color=282a36&color=ff6e96&point=2ca5e0&locale=en)
+<!--
+## :star: Best Repositories
+[![Shell Utils](https://github-readme-stats.vercel.app/api/pin/?username=davorpa&repo=shell-utils&theme=dracula&show_owner=true&card_width=446&show_icons=true&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en)](https://github.com/davorpa/shell-utils)
+[![Android Scissors Game](https://github-readme-stats.vercel.app/api/pin/?username=davorpa&repo=gpul-labs-android-scissors-game&theme=dracula&show_owner=true&card_width=446&show_icons=true&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en)](https://github.com/davorpa/gpul-labs-android-scissors-game)
+-->
 
