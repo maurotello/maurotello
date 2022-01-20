@@ -9,16 +9,14 @@
 
 :point_right: Si bien tenía conocimientos en Javascript hace un par de meses comencé a capacitarme con más profundidad en ese ámbito: Typescript, async/awai, Promesas, etc
 
-:point_right: También incursioné en el mundo del Marketing Digital, estudiando Marca Personal, Inbound Marketing, Publicidad en Facebook e Instagram, y Community Manager entre otros
+:point_right: También incursioné en el mundo del Marketing Digital, estudiando Marca Personal, Inbound Marketing, Publicidad en Facebook e Instagram, y Community Manager entre otros.
 
 :point_right: :100: Hace 2 meses comencé a capacitarme en Blockchain, Solidity, Smart Contracts, Bitcoin, Exchange y todo lo relacionado.
 
 :muscle: Mi objetivo principal es desarrollarme profesionalmente y evolucionar en el sector IT, de modo que busco oportunidades que me permitan hacerlo. Nunca paro de capacitarme, en este ambiente no se puede.
-<br />
-<br />
+
 :hotsprings: **Actualmente estoy capacitándome sobre Blockchain | Smart Contract | Solidity | Web3 | Javascript Avanzado | React**
-<br />
-<br />
+
 [![Web](https://img.shields.io/badge/Linktr.ee-14a1f0?style=for-the-badge&logo=linktr.ee&logoColor=white&labelColor=101010)](https://linktr.ee/maurotello) 
 [![Twitter](https://img.shields.io/badge/Twitter-@maurogtello-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/maurogtello) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIN-maurotello-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/maurotello/) 
