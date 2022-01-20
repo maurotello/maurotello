@@ -6,12 +6,17 @@ Me inicié en el mundo de la programación hace muchos años con Visual Basic (a
 
 Conocí los Framework PHP, me enfoqué en Laravel y allí agudicé mis conocimientos sobre PHP, Base de datos y Paradigmas de Programación.
 
-Si bien tenía conocimientos en Javascript hace un par de meses comencé a capacitarme con más profundidad en ese ámbito: Typescript, Asygn/Awai, Promesas, etc
+He participado en varios proyectos aplicando otras tecnologías, pero fueron casuales, por ejemplo JAVA Android, Kotlin, Vue, GIS, Postgress, y otras.
+
+Si bien tenía conocimientos en Javascript hace un par de meses comencé a capacitarme con más profundidad en ese ámbito: Typescript, async/awai, Promesas, etc
 
 Hace 2 meses comencé a capacitarme en Blockchain, Solidity, Smart Contracts, Bitcoin, Exchange y todo lo relacionado.
 
 Mi objetivo principal es desarrollarme profesionalmente y evolucionar en el sector IT, de modo que busco oportunidades que me permitan hacerlo. Nunca paro de capacitarme, en este ambiente no se puede
 
+<br />
+<br />
+** Actualmente estoy capacitándome sobre Blockchain | Smart Contract | Solidity | Web3 | Javascript Avanzado | React **
 
 [![Web](https://img.shields.io/badge/Linktr.ee-14a1f0?style=for-the-badge&logo=linktr.ee&logoColor=white&labelColor=101010)](https://linktr.ee/maurotello) 
 [![Twitter](https://img.shields.io/badge/Twitter-@maurogtello-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/maurogtello) 
