@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Bienvenidos a mi repositorio</h1>
+<h1 align="center">Hola, 👋 Bienvenidos a mi repositorio</h1>
 <h3 align="center">Apasionado por la programación y los desafíos</h3>
 <p align="center" style="font-weight=bold"> :hotsprings: Capacitándome en Blockchain | Smart Contract | Solidity | Web3 | Javascript Avanzado | React </p>
 <br />
