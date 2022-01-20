@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, Bienvenidos a mi repositorio</h1>
 <h3 align="center">Apasionado por la programación y los desafíos</h3>
 <br />
-<br />
 Me inicié en el mundo de la programación hace muchos años con Visual Basic (a muchos se les piantará una lágrima), estudiando con un libro de 500 páginas o más, no recuerdo. Luego incursioné en PHP, HTML5, CSS, todo lo que es web. Sector que aún continúo, pero no es el primordial.
 
 Conocí los Framework PHP, me enfoqué en Laravel y allí agudicé mis conocimientos sobre PHP, Base de datos y Paradigmas de Programación.
@@ -10,7 +9,9 @@ He participado en varios proyectos aplicando otras tecnologías, pero fueron cas
 
 Si bien tenía conocimientos en Javascript hace un par de meses comencé a capacitarme con más profundidad en ese ámbito: Typescript, async/awai, Promesas, etc
 
-Hace 2 meses comencé a capacitarme en Blockchain, Solidity, Smart Contracts, Bitcoin, Exchange y todo lo relacionado.
+También incursioné en el mundo del Marketing Digital, estudiando Marca Personal, Inbound Marketing, Publicidad en Facebook e Instagram, y Community Manager entre otros
+
+:+1::100:Hace 2 meses comencé a capacitarme en Blockchain, Solidity, Smart Contracts, Bitcoin, Exchange y todo lo relacionado.
 
 Mi objetivo principal es desarrollarme profesionalmente y evolucionar en el sector IT, de modo que busco oportunidades que me permitan hacerlo. Nunca paro de capacitarme, en este ambiente no se puede.
 <br />
