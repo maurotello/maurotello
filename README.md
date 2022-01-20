@@ -2,6 +2,13 @@
 <h3 align="center">Apasionado por la programación y los desafíos</h3>
 <br />
 <br />
+Me inicié en el mundo de la programación hace muchos años con Visual Basic (a muchos se les piantará una lágrima), estudiando con un libro de 500 páginas o más, no recuerdo. Luego incursioné en PHP, HTML5, CSS, todo lo que es web. Sector que aún continúo, pero no es el primordial.
+
+Luego conocí los Framework PHP, me enfoqué en Laravel y allí agudicé mis conocimientos sobre PHP y Base de datos y Paradigmas de Programación.
+
+Si bien tenía conocimientos en Javascript hace un par de meses comencé a capacitarme con más profundidad en ese ámbito.
+
+Mi objetivo principal es desarrollarme profesionalmente y evolucionar en el sector IT, de modo que busco oportunidades que me permitan hacerlo, al tiempo que trataré de alinearme completamente con los objetivos de la empresa.
 
 
 [![Web](https://img.shields.io/badge/Linktr.ee-14a1f0?style=for-the-badge&logo=linktr.ee&logoColor=white&labelColor=101010)](https://linktr.ee/maurotello) 
