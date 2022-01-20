@@ -13,7 +13,7 @@
 
 ## Teccnologías y Herramientas
 <br />
-<p align="left"> 
+
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -29,7 +29,7 @@
 <a href="https://solidity-es.readthedocs.io/es/latest/" target="_blank"> <img src="https://solidity-es.readthedocs.io/es/latest/_images/logo.svg" alt="Solidity" width="40" height="40"/> </a>
 <a href="https://github.com/ChainSafe/web3.js" target="_blank"> <img src="https://raw.githubusercontent.com/ChainSafe/web3.js/1.x/assets/logo/web3js.jpg" alt="Solidity" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/W3C%C2%AE_Icon.svg/210px-W3C%C2%AE_Icon.svg.png" alt="Accesibilidad Web" width="40" height="40"/> </a>
-</p>
+
 <br />
 
 ![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurotello&theme=dracula&layout=compact&count_private=true&langs_count=10&card_width=446&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=es)
