@@ -1,4 +1,5 @@
-### Hola 👋 mi nombre es Mauro Tello
+<h1 align="center">Hola 👋, Bienvenidos a mi repositorio</h1>
+<h3 align="center">A passionate frontend developer from Uruguay</h3>
 
 <!--
 **maurotello/maurotello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
