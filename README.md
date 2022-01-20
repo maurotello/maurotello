@@ -35,3 +35,7 @@
 <br />
 
 ![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurotello&theme=dracula&layout=compact&count_private=true&langs_count=10&card_width=446&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en)
+<br />
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=maurotello&theme=dracula&area=true&hide_border=false&bg_color=282a36&color=ff6e96&point=2ca5e0&locale=en)
+<br />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davorpa&theme=maurotello&hide_border=false&=dracula&fire=2ca5e0&border=2ca5e0&sideLabels=2ca5e0&locale=en)
