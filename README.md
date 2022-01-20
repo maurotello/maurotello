@@ -1,5 +1,8 @@
 <h1 align="center">Hola 👋, Bienvenidos a mi repositorio</h1>
 <h3 align="center">Apasionado por la programación y los desafíos</h3>
+<p align="center" style="font-weight=bold"> :hotsprings: Capacitándome en Blockchain | Smart Contract | Solidity | Web3 | Javascript Avanzado | React </p>
+<br />
+<p align="center"><img src="https://cdn.pixabay.com/photo/2021/12/21/09/06/bitcoin-6884852_960_720.jpg" height="200px" /></p>
 <br />
 :point_right: Me inicié en el mundo de la programación hace muchos años con Visual Basic (a muchos se les piantará una lágrima:face_exhaling:), estudiando con un libro de 500 páginas o más, no recuerdo:smiley:. Luego incursioné en PHP, HTML5, CSS, todo lo que es web. Sector que aún continúo, pero no es el primordial.
 
@@ -15,7 +18,7 @@
 
 :muscle: Mi objetivo principal es desarrollarme profesionalmente y evolucionar en el sector IT, de modo que busco oportunidades que me permitan hacerlo. Nunca paro de capacitarme, en este ambiente no se puede.
 
-:hotsprings: **Actualmente estoy capacitándome sobre Blockchain | Smart Contract | Solidity | Web3 | Javascript Avanzado | React**
+
 
 [![Web](https://img.shields.io/badge/Linktr.ee-14a1f0?style=for-the-badge&logo=linktr.ee&logoColor=white&labelColor=101010)](https://linktr.ee/maurotello) 
 [![Twitter](https://img.shields.io/badge/Twitter-@maurogtello-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/maurogtello) 
@@ -24,7 +27,7 @@
 
 <br />
 
-## Teccnologías y Herramientas
+## Tecnologías y Herramientas
 <br />
 <p style="text-align: left">
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
