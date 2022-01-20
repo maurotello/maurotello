@@ -1,22 +1,22 @@
 <h1 align="center">Hola 👋, Bienvenidos a mi repositorio</h1>
 <h3 align="center">Apasionado por la programación y los desafíos</h3>
 <br />
-Me inicié en el mundo de la programación hace muchos años con Visual Basic (a muchos se les piantará una lágrima), estudiando con un libro de 500 páginas o más, no recuerdo. Luego incursioné en PHP, HTML5, CSS, todo lo que es web. Sector que aún continúo, pero no es el primordial.
+:point_right: Me inicié en el mundo de la programación hace muchos años con Visual Basic (a muchos se les piantará una lágrima:face_exhaling:), estudiando con un libro de 500 páginas o más, no recuerdo:smiley:. Luego incursioné en PHP, HTML5, CSS, todo lo que es web. Sector que aún continúo, pero no es el primordial.
 
-Conocí los Framework PHP, me enfoqué en Laravel y allí agudicé mis conocimientos sobre PHP, Base de datos y Paradigmas de Programación.
+:point_right: Conocí los Framework PHP, me enfoqué en Laravel y allí agudicé mis conocimientos sobre PHP, Base de datos y Paradigmas de Programación.
 
-He participado en varios proyectos aplicando otras tecnologías, pero fueron casuales, por ejemplo JAVA Android, Kotlin, Vue, GIS, Postgress, y otras.
+:point_right: He participado en varios proyectos aplicando otras tecnologías, pero fueron casuales, por ejemplo JAVA Android, Kotlin, Vue, GIS, Postgress, y otras.
 
-Si bien tenía conocimientos en Javascript hace un par de meses comencé a capacitarme con más profundidad en ese ámbito: Typescript, async/awai, Promesas, etc
+:point_right: Si bien tenía conocimientos en Javascript hace un par de meses comencé a capacitarme con más profundidad en ese ámbito: Typescript, async/awai, Promesas, etc
 
-También incursioné en el mundo del Marketing Digital, estudiando Marca Personal, Inbound Marketing, Publicidad en Facebook e Instagram, y Community Manager entre otros
+:point_right: También incursioné en el mundo del Marketing Digital, estudiando Marca Personal, Inbound Marketing, Publicidad en Facebook e Instagram, y Community Manager entre otros
 
-:+1::100:Hace 2 meses comencé a capacitarme en Blockchain, Solidity, Smart Contracts, Bitcoin, Exchange y todo lo relacionado.
+:point_right: :100: Hace 2 meses comencé a capacitarme en Blockchain, Solidity, Smart Contracts, Bitcoin, Exchange y todo lo relacionado.
 
-Mi objetivo principal es desarrollarme profesionalmente y evolucionar en el sector IT, de modo que busco oportunidades que me permitan hacerlo. Nunca paro de capacitarme, en este ambiente no se puede.
+:muscle: Mi objetivo principal es desarrollarme profesionalmente y evolucionar en el sector IT, de modo que busco oportunidades que me permitan hacerlo. Nunca paro de capacitarme, en este ambiente no se puede.
 <br />
 <br />
-**Actualmente estoy capacitándome sobre Blockchain | Smart Contract | Solidity | Web3 | Javascript Avanzado | React**
+:hotsprings: **Actualmente estoy capacitándome sobre Blockchain | Smart Contract | Solidity | Web3 | Javascript Avanzado | React**
 <br />
 <br />
 [![Web](https://img.shields.io/badge/Linktr.ee-14a1f0?style=for-the-badge&logo=linktr.ee&logoColor=white&labelColor=101010)](https://linktr.ee/maurotello) 
