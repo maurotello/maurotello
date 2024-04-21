@@ -57,8 +57,7 @@
 <a href="https://github.com/ChainSafe/web3.js" target="_blank"> <img src="https://raw.githubusercontent.com/ChainSafe/web3.js/1.x/assets/logo/web3js.jpg" alt="Solidity" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/W3C%C2%AE_Icon.svg/210px-W3C%C2%AE_Icon.svg.png" alt="Accesibilidad Web" width="40" height="40"/> </a>
 <a href="https://ethereum.org/es/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ethereum_logo_translucent.svg/170px-Ethereum_logo_translucent.svg.png" alt="Ethereum" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org/" target="_blank"> <img src="https://w7.pngwing.com/pngs/192/987/png-transparent-kotlin-java-logo-others-blue-angle-text.png
-" alt="Ethereum" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org/" target="_blank"> <img src="https://w7.pngwing.com/pngs/192/987/png-transparent-kotlin-java-logo-others-blue-angle-text.png" alt="Kotlin" width="40" height="40"/> </a>
 
 </p>
 <br />
