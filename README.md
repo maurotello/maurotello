@@ -21,12 +21,20 @@
 
 
 <a href="https://linktr.ee/maurotello" target="_blank">
-  <img src="https://img.shields.io/badge/Linktr.ee-14a1f0?style=for-the-badge&logo=linktr.ee&logoColor=white&labelColor=101010" alt="Web">
+  <img src="https://img.shields.io/badge/Linktr.ee-14a1f0?labelColor=101010&logo=linktr.ee&logoColor=white&style=for-the-badge" alt="Web">
 </a>
-[![Web](https://img.shields.io/badge/Linktr.ee-14a1f0?style=for-the-badge&logo=linktr.ee&logoColor=white&labelColor=101010)](https://linktr.ee/maurotello){:target="_blank"}
-[![Twitter](https://img.shields.io/badge/Twitter-@maurogtello-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/maurogtello) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIN-maurotello-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/maurotello/) 
-[![Instagram](https://img.shields.io/badge/Instagram-@maurogtello-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/maurogtello/)
+
+<a href="https://twitter.com/maurogtello" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-@maurogtello-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010" alt="Twitter">
+</a>
+
+<a href="https://www.linkedin.com/in/maurotello/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIN-maurotello-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/maurogtello/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@maurogtello-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" alt="Instagram">
+</a>
 
 <br />
 
