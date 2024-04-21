@@ -16,7 +16,7 @@
 
 :muscle: Mi objetivo principal es desarrollarme profesionalmente y evolucionar en el sector IT, de modo que busco oportunidades que me permitan hacerlo. Nunca paro de capacitarme, en este ambiente no se puede.
 
-:point_right: Para ver mis certificaciones por favor dirigirse a <a href="https://www.linkedin.com/in/maurotello/details/certifications/" target="_blank">Certificaciones LinkedIN</a>
+:point_right: Para ver mis certificaciones por favor dirigirse a <a href="https://www.linkedin.com/in/maurotello/details/certifications/" target="_blanck">Certificaciones LinkedIN</a>
 
 
 <a href="https://twitter.com/maurotelloseo" target="_blank">
