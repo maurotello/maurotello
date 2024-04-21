@@ -20,7 +20,9 @@
 :muscle: Mi objetivo principal es desarrollarme profesionalmente y evolucionar en el sector IT, de modo que busco oportunidades que me permitan hacerlo. Nunca paro de capacitarme, en este ambiente no se puede.
 
 
-
+<a href="https://linktr.ee/maurotello" target="_blank">
+  <img src="https://img.shields.io/badge/Linktr.ee-14a1f0?style=for-the-badge&logo=linktr.ee&logoColor=white&labelColor=101010" alt="Web">
+</a>
 [![Web](https://img.shields.io/badge/Linktr.ee-14a1f0?style=for-the-badge&logo=linktr.ee&logoColor=white&labelColor=101010)](https://linktr.ee/maurotello){:target="_blank"}
 [![Twitter](https://img.shields.io/badge/Twitter-@maurogtello-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/maurogtello) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIN-maurotello-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/maurotello/) 
