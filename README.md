@@ -3,7 +3,7 @@
 <p align="center" style="font-weight=bold"> :hotsprings: Siempre Capacitándome en varias tecnologías: Blockchain | Smart Contract | Solidity | Web3 | Kotlin | JetPack Compose | SEO | etc </p>
 <p align="center" style="font-weight=bold"> :hotsprings: Desarrollador web </p>
 <br />
-<p align="center"><img src="https://cdn.pixabay.com/photo/2021/12/21/09/06/bitcoin-6884852_960_720.jpg" height="200px" /></p>
+<p align="center"><img src="https://github.blog/wp-content/uploads/2022/12/1200x640-1.png?resize=1200%2C640" height="200px" /></p>
 <br />
 :point_right: Me inicié en el mundo de la programación hace muchos años con Visual Basic (a muchos se les piantará una lágrima:face_exhaling:), estudiando con un libro de 500 páginas o más, no recuerdo:smiley:. Luego incursioné en PHP, HTML5, CSS, todo lo que es web. Sector que aún continúo, pero no es el primordial.
 
