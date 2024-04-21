@@ -12,11 +12,7 @@
 
 :point_right: He participado en varios proyectos aplicando otras tecnologías, pero fueron casuales, por ejemplo JAVA Android, Vue, GIS, Postgress, y otras.
 
-:point_right: Si bien tenía conocimientos en Javascript hace un par de meses comencé a capacitarme con más profundidad en ese ámbito: Typescript, async/awai, Promesas, etc
-
-:point_right: También incursioné en el mundo del Marketing Digital, estudiando Marca Personal, Inbound Marketing, Publicidad en Facebook e Instagram, y Community Manager entre otros.
-
-:point_right: :100: Hace 2 meses comencé a capacitarme en Blockchain, Solidity, Smart Contracts, Bitcoin, Exchange y todo lo relacionado.
+:point_right: Me capacité en: PHP, Wordpress, Typescript, async/awai, Promesas, Marketing Digital, Facebook, Instagram, Comunity Manager, Blockchain, Solidity, Smart Contracts, Bitcoin, Exchange y todo lo relacionado.
 
 :muscle: Mi objetivo principal es desarrollarme profesionalmente y evolucionar en el sector IT, de modo que busco oportunidades que me permitan hacerlo. Nunca paro de capacitarme, en este ambiente no se puede.
 
