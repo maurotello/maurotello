@@ -52,7 +52,8 @@
 <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://mysql.com" target="_blank"><img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="postman" width="40" height="40"/> </a>
+<a href="https://mysql.com" target="_blank"><img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="MySQL" width="40" height="40"/> </a>
+<a href="https://posrgresql.com" target="_blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PosrGreSQL" width="40" height="40"/> </a>
 <a href="https://solidity-es.readthedocs.io/es/latest/" target="_blank"> <img src="https://solidity-es.readthedocs.io/es/latest/_images/logo.svg" alt="Solidity" width="40" height="40"/> </a>
 <a href="https://github.com/ChainSafe/web3.js" target="_blank"> <img src="https://raw.githubusercontent.com/ChainSafe/web3.js/1.x/assets/logo/web3js.jpg" alt="Solidity" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/W3C%C2%AE_Icon.svg/210px-W3C%C2%AE_Icon.svg.png" alt="Accesibilidad Web" width="40" height="40"/> </a>
