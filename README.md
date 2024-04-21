@@ -20,16 +20,16 @@
 :muscle: Mi objetivo principal es desarrollarme profesionalmente y evolucionar en el sector IT, de modo que busco oportunidades que me permitan hacerlo. Nunca paro de capacitarme, en este ambiente no se puede.
 
 
-<a href="https://twitter.com/maurogtello" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-@maurogtello-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010" alt="Twitter">
+<a href="https://twitter.com/maurotelloseo" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-@maurotelloseo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010" alt="Twitter">
 </a>
 
 <a href="https://www.linkedin.com/in/maurotello/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIN-maurotello-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn">
 </a>
 
-<a href="https://www.instagram.com/maurogtello/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@maurogtello-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" alt="Instagram">
+<a href="https://www.instagram.com/maurotelloseo/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@maurotelloseo-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" alt="Instagram">
 </a>
 
 <br />
