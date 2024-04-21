@@ -45,7 +45,7 @@
 <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://es-ar.wordpress.org/" target="_blank"> <img src="http://pngimg.com/uploads/wordpress/wordpress_PNG51.png" alt="Wordpress" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/> </a>
@@ -57,7 +57,7 @@
 <a href="https://solidity-es.readthedocs.io/es/latest/" target="_blank"> <img src="https://solidity-es.readthedocs.io/es/latest/_images/logo.svg" alt="Solidity" width="40" height="40"/> </a>
 <a href="https://github.com/ChainSafe/web3.js" target="_blank"> <img src="https://raw.githubusercontent.com/ChainSafe/web3.js/1.x/assets/logo/web3js.jpg" alt="Solidity" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/W3C%C2%AE_Icon.svg/210px-W3C%C2%AE_Icon.svg.png" alt="Accesibilidad Web" width="40" height="40"/> </a>
-<a href="https://ethereum.org/es/" target="_blank"> <img src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/f2da0/eth-home-icon.png" alt="Ethereum" width="40" height="40"/> </a>
+<a href="https://ethereum.org/es/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ethereum_logo_translucent.svg/170px-Ethereum_logo_translucent.svg.png" alt="Ethereum" width="40" height="40"/> </a>
 </p>
 <br />
 
