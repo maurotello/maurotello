@@ -1,14 +1,15 @@
 <h1 align="center">Hola, 👋 Bienvenidos a mi repositorio</h1>
 <h3 align="center">Apasionado por la programación y los desafíos</h3>
-<p align="center" style="font-weight=bold"> :hotsprings: Capacitándome en Blockchain | Smart Contract | Solidity | Web3 | Javascript Avanzado | React </p>
+<p align="center" style="font-weight=bold"> :hotsprings: Siempre Capacitándome en varias tecnologías: Blockchain | Smart Contract | Solidity | Web3 | Kotlin | JetPack Compsoe | SEO | etc </p>
+<p align="center" style="font-weight=bold"> :hotsprings: Desarrollador web </p>
 <br />
-<p align="center"><img src="https://cdn.pixabay.com/photo/2021/12/21/09/06/bitcoin-6884852_960_720.jpg" height="200px" /></p>
+<p align="center"><img src="[https://cdn.pixabay.com/photo/2021/12/21/09/06/bitcoin-6884852_960_720.jpg](https://pixabay.com/es/illustrations/programador-programaci%C3%B3n-computadora-7633812/)" height="200px" /></p>
 <br />
 :point_right: Me inicié en el mundo de la programación hace muchos años con Visual Basic (a muchos se les piantará una lágrima:face_exhaling:), estudiando con un libro de 500 páginas o más, no recuerdo:smiley:. Luego incursioné en PHP, HTML5, CSS, todo lo que es web. Sector que aún continúo, pero no es el primordial.
 
 :point_right: Conocí los Framework PHP, me enfoqué en Laravel y allí agudicé mis conocimientos sobre PHP, Base de datos y Paradigmas de Programación.
 
-:point_right: He participado en varios proyectos aplicando otras tecnologías, pero fueron casuales, por ejemplo JAVA Android, Kotlin, Vue, GIS, Postgress, y otras.
+:point_right: He participado en varios proyectos aplicando otras tecnologías, pero fueron casuales, por ejemplo JAVA Android, Vue, GIS, Postgress, y otras.
 
 :point_right: Si bien tenía conocimientos en Javascript hace un par de meses comencé a capacitarme con más profundidad en ese ámbito: Typescript, async/awai, Promesas, etc
 
