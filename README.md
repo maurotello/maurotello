@@ -1,8 +1,8 @@
 <h1 align="center">Hola, 👋 Bienvenidos a mi repositorio</h1>
 <h3 align="center">Apasionado por la programación y los desafíos</h3>
-<h4 align="center">E-mail: maurotello73@gmail.com</h4>
-<p align="center" style="font-weight=bold"> :hotsprings: Siempre Capacitándome en varias tecnologías: Blockchain | Smart Contract | Solidity | Web3 | Kotlin | JetPack Compose | SEO | etc </p>
-<p align="center" style="font-weight=bold"> :hotsprings: Desarrollador web </p>
+<h4 align="center">E-mail: maurotello73@gmail.com | mtello@servimap.com.ar</h4>
+<p align="center" style="font-weight=bold"> :hotsprings: Siempre Capacitándome en varias tecnologías: PHP | Laravel | Kotlin | JetPack Compose | SEO | otras </p>
+<p align="center" style="font-weight=bold"> :hotsprings: Desarrollador y Programador web </p>
 <br />
 <p align="center"><img src="https://github.blog/wp-content/uploads/2022/12/1200x640-1.png?resize=1200%2C640" height="200px" /></p>
 <br />
@@ -12,7 +12,7 @@
 
 :point_right: He participado en varios proyectos aplicando otras tecnologías, pero fueron casuales, por ejemplo JAVA Android, Vue, GIS, Postgress, y otras.
 
-:point_right: Me capacité en: PHP, Wordpress, Typescript, async/awai, Promesas, Marketing Digital, Facebook, Instagram, Comunity Manager, Blockchain, Solidity, Smart Contracts, Bitcoin, Exchange y todo lo relacionado.
+:point_right: Me capacité en: PHP, Wordpress, Typescript, Vue, async/awai, Promesas, Marketing Digital, Facebook, Instagram, Comunity Manager, Blockchain, Solidity, Smart Contracts, Bitcoin, Exchange y todo lo relacionado.
 
 :muscle: Mi objetivo principal es desarrollarme profesionalmente y evolucionar en el sector IT, de modo que busco oportunidades que me permitan hacerlo. Nunca paro de capacitarme, en este ambiente no se puede.
 
